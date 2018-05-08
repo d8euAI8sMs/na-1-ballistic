@@ -4,19 +4,17 @@ Part of [d8euAI8sMs](https://github.com/d8euAI8sMs) namespace. See [`learning` r
 
 ## About
 
-The simulation of interference of two RF point sources in 2D using the FDTD method.
+The simulation of ballistic missile in the gravitational field of Earth.
 
 ## Status and Artifacts
 
 | project |
 | ------- |
-| [![Build status](https://ci.appveyor.com/api/projects/status/hygvwov1coauooqr?svg=true)](https://ci.appveyor.com/project/kalaider/na-1-ballistic/build/artifacts)
-
- |
+| [![Build status](https://ci.appveyor.com/api/projects/status/hygvwov1coauooqr?svg=true)](https://ci.appveyor.com/project/kalaider/na-1-ballistic/build/artifacts) |
 
 ## Details
 
-Visual Studio 2013 project (C++, MFC, opengl).
+Visual Studio 2013 project (C++, MFC).
 
 ## Getting Source Code
 
